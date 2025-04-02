@@ -6,6 +6,7 @@ docs/
 ├── README.md                  # Overview and navigation guide
 ├── journals_books/            # Bellande Journals and Books
 │   ├── phd_dissertation.md
+│   ├── technologies_and_science_journal.md
 │   └── galaxy_law_journals.md
 ├── bellande_documents/        # Bellande Entities Documents
 │   └── bellande_documents.md
