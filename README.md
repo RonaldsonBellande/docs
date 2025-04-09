@@ -9,12 +9,8 @@ docs/
 │   └── galaxy_law_journals.md
 ├── bellande_documents/        # Bellande Entities Documents
 │   └── bellande_documents.md
-├── user-guides/               # Task-oriented guides
-│   ├── feature-a.md
-│   ├── feature-b.md
-│   └── workflows/
-│       ├── common-workflow-1.md
-│       └── common-workflow-2.md
+├── research_organization_docs/ # Bellande Research Organization Docs
+│   └── research_organization_docs.md
 ├── reference/                 # Technical reference material
 │   ├── api/
 │   │   ├── endpoints.md
