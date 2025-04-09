@@ -1,11 +1,18 @@
 # Documentation for Ronaldson Bellande
-### Overview and navigation guide
 
+**Docs**
+- Bellande Git: https://git.bellande-technologies.com/RonaldsonBellande/docs
+- Github: https://github.com/RonaldsonBellande/docs
+- Gitlab: https://gitlab.com/RonaldsonBellande/docs
+- Bitbucket: https://bitbucket.org/ronaldsonbellande/docs
+
+### Overview and navigation guide
 ```
 docs/
 ├── README.md                  # Overview and navigation guide
 ├── journals_books/            # Bellande Journals and Books
 │   ├── phd_dissertation.md
+│   ├── technologies_and_science_journal.md
 │   └── galaxy_law_journals.md
 ├── bellande_documents/        # Bellande Entities Documents
 │   └── bellande_documents.md
