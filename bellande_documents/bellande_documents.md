@@ -12,8 +12,14 @@
 - Gitlab: https://gitlab.com/RonaldsonBellande/memorandum_of_understanding
 - Bitbucket: https://bitbucket.org/ronaldsonbellande/memorandum_of_understanding
 
-**comfidentiality_agreement**
+**Comfidentiality Agreement**
 - Bellande Git: https://git.bellande-technologies.com/RonaldsonBellande/comfidentiality_agreement
 - Github: https://github.com/RonaldsonBellande/comfidentiality_agreement
 - Gitlab: https://gitlab.com/RonaldsonBellande/comfidentiality_agreement
 - Bitbucket: https://bitbucket.org/ronaldsonbellande/comfidentiality_agreement
+
+**Confidentiality and Proprietary**
+- Bellande Git: https://git.bellande-technologies.com/RonaldsonBellande/confidentiality_and_proprietary
+- Github: https://github.com/RonaldsonBellande/confidentiality_and_proprietary
+- Gitlab: https://gitlab.com/RonaldsonBellande/confidentiality_and_proprietary
+- Bitbucket: https://bitbucket.org/ronaldsonbellande/confidentiality_and_proprietary
